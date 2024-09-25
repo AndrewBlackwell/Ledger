@@ -1,0 +1,54 @@
+# Node.js dependencies
+/node_modules
+/finance-tracker-client/node_modules
+
+# Build directories
+/finance-tracker-client/build
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS-specific files
+.DS_Store        # macOS
+Thumbs.db        # Windows
+ehthumbs.db      # Windows
+
+# Coverage and test results
+/coverage
+/finance-tracker-client/coverage
+
+# Cache
+.cache
+/finance-tracker-client/.cache
+
+# IDE specific files 
+/.vscode/
+/.idea/
+/finance-tracker-client/.vscode/
+/finance-tracker-client/.idea/
+
+# Tailwind cache files 
+/tailwind.config.js
+/finance-tracker-client/tailwind.config.js
+
+# Misc
+*.pem
+*.key
+*.crt
+
+/finance-tracker-client/.env
+/finance-tracker-client/.gitignore
+/finance-tracker-client/.DS_Store
+/finance-tracker-client/.env.local
+/finance-tracker-client/.env.development.local
+/finance-tracker-client/.env.test.local
+/finance-tracker-client/.env.production.local
