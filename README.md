@@ -1,11 +1,11 @@
-# WorkWell: Freelance and On-Campus Shift Tracker
+# Ledger: Freelance and On-Campus Shift Tracker
 
 ![Screenshot](docs/screenshot.png)
 **Track your time, conquer your goals.**
 
 ## Overview
 
-**WorkWell** is a web application tailored for self-employed freelance students and on-campus employees who need an efficient way to log and track their work hours. Whether you're juggling multiple freelance projects or managing shifts as an on-campus employee, WorkWell offers a streamlined solution to keep track of your time, analyze your work patterns, and optimize your productivity.
+**Ledger** is a web application tailored for self-employed freelance students and on-campus employees who need an efficient way to log and track their work hours. Whether you're juggling multiple freelance projects or managing shifts as an on-campus employee, Ledger offers a streamlined solution to keep track of your time, analyze your work patterns, and optimize your productivity.
 
 ## Tech Stack
 
@@ -25,12 +25,12 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/workwell.git
+   git clone https://github.com/your-username/Ledger.git
    ```
 2. **Navigate to the project directory**:
 
    ```bash
-   cd workwell
+   cd Ledger
    ```
 
 3. **Install the dependencies**:
